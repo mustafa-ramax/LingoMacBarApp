@@ -57,4 +57,4 @@ Follow the private reporting instructions in [`SECURITY.md`](SECURITY.md).
 
 For requests that should not be discussed publicly, use:
 
-https://mustafaramx.com/contact/
+https://mustafaramx.com/#contact

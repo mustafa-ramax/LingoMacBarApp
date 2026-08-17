@@ -10,7 +10,7 @@ LingoMacBar is a **closed-source macOS application**. This public repository con
 
 Instead, contact the developer privately through:
 
-https://mustafaramx.com/contact/
+https://mustafaramx.com/#contact
 
 Please include, where possible:
 
